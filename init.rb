@@ -1,4 +1,5 @@
 require 'redmine'
+require_dependency 'custom_javascript/hooks'
 
 Redmine::Plugin.register :redmine_custom_javascript do
   name 'Redmine Custom Javascript plugin'

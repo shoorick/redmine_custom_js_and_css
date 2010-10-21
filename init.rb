@@ -1,11 +1,11 @@
 require 'redmine'
-require_dependency 'custom_javascript/hooks'
+require_dependency 'custom_js_and_css/hooks'
 
-Redmine::Plugin.register :redmine_custom_javascript do
-  name 'Redmine Custom Javascript plugin'
+Redmine::Plugin.register :redmine_custom_js_and_css do
+  name 'Custom JS and CSS plugin'
   author 'Alexander Sapozhnikov'
-  description 'This plugin for Redmine allows to execute custom JavaScript on every page'
+  description 'Customizing Redmine: execute custom JavaScript and apply custom CSS'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
+  url 'http://github.com/shoorick/redmine_custom_js_and_css'
   author_url 'http://shoorick.ru/'
 end

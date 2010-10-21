@@ -1,0 +1,7 @@
+#header {
+    background-color: #c00;
+}
+
+#main-menu li a:hover {
+   background-color: #f33;
+}

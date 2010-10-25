@@ -3,8 +3,8 @@
 This plugin for Redmine allows to customize Redmine:
 you can execute custom JavaScript and apply custom CSS Stylesheets to pages.
 
-Author:: Alexander Sapozhnikov http://shoorick.ru/
-E-mail:: shoorick-at-cpan-dot-org
+Author: Alexander Sapozhnikov http://shoorick.ru/
+E-mail: shoorick-at-cpan-dot-org
 
 == Getting the plugin
 
